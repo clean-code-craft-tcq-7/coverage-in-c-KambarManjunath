@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@KambarManjunath 
-clean-code-craft-tcq-7
-/
-coverage-in-c-KambarManjunath
-Public
-generated from clean-code-craft-tcq-7/typewise-alert-c
-Fork your own copy of clean-code-craft-tcq-7/coverage-in-c-KambarManjunath
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-coverage-in-c-KambarManjunath/test/catch.hpp
-@KambarManjunath
-KambarManjunath Update catch.hpp
-Latest commit 1894802 3 weeks ago
- History
- 2 contributors
-@KambarManjunath@github-classroom
-17805 lines (14672 sloc)  635 KB
-
 /*
  *  Catch v2.13.0
  *  Generated: 2020-07-12 20:07:49.015950
@@ -45,7 +11,6 @@ Latest commit 1894802 3 weeks ago
 #ifndef TWOBLUECUBES_SINGLE_INCLUDE_CATCH_HPP_INCLUDED
 #define TWOBLUECUBES_SINGLE_INCLUDE_CATCH_HPP_INCLUDED
 // start catch.hpp
-
 
 #define CATCH_VERSION_MAJOR 2
 #define CATCH_VERSION_MINOR 13
@@ -8072,10 +8037,7 @@ namespace Catch {
 
 #include <signal.h>
 
-#ifdef MINSIGSTKSZ
 #undef MINSIGSTKSZ
-#endif
-
 #define MINSIGSTKSZ 16384
 
 namespace Catch {
@@ -17836,19 +17798,3 @@ using Catch::Detail::Approx;
 // end catch_reenable_warnings.h
 // end catch.hpp
 #endif // TWOBLUECUBES_SINGLE_INCLUDE_CATCH_HPP_INCLUDED
-
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-coverage-in-c-KambarManjunath/catch.hpp at main · clean-code-craft-tcq-7/coverage-in-c-KambarManjunath 
