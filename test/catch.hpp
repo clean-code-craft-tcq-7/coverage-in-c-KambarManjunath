@@ -1,3 +1,37 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@KambarManjunath 
+clean-code-craft-tcq-7
+/
+coverage-in-c-KambarManjunath
+Public
+generated from clean-code-craft-tcq-7/typewise-alert-c
+Fork your own copy of clean-code-craft-tcq-7/coverage-in-c-KambarManjunath
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+coverage-in-c-KambarManjunath/test/catch.hpp
+@KambarManjunath
+KambarManjunath Update catch.hpp
+Latest commit 1894802 3 weeks ago
+ History
+ 2 contributors
+@KambarManjunath@github-classroom
+17805 lines (14672 sloc)  635 KB
+
 /*
  *  Catch v2.13.0
  *  Generated: 2020-07-12 20:07:49.015950
@@ -17803,3 +17837,18 @@ using Catch::Detail::Approx;
 // end catch.hpp
 #endif // TWOBLUECUBES_SINGLE_INCLUDE_CATCH_HPP_INCLUDED
 
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+coverage-in-c-KambarManjunath/catch.hpp at main · clean-code-craft-tcq-7/coverage-in-c-KambarManjunath 
